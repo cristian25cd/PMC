@@ -198,7 +198,6 @@ namespace VoiceRecorder.Audio
                 short sample = (short)((buffer[index + 1] << 8) |
                                         buffer[index + 0]);
                 float sample32 = sample / 32768f;
-                sampleAggregator.Add(sample32);
             }
         }
 

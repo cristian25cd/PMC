@@ -54,6 +54,7 @@ namespace VoiceRecorder.Audio
         {
             this.MaxSample = maxValue;
             this.MinSample = minValue;
+            //Console.WriteLine(maxValue);
         }
         public float MaxSample { get; private set; }
         public float MinSample { get; private set; }

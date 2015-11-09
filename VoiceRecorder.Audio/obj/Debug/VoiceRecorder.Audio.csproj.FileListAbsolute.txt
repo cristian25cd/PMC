@@ -10,3 +10,9 @@ C:\Users\Cristian\Desktop\voicerecorder_f067d3f5a443\VoiceRecorder.Audio\bin\Deb
 C:\Users\Cristian\Desktop\voicerecorder_f067d3f5a443\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
 C:\Users\Cristian\Desktop\voicerecorder_f067d3f5a443\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
 C:\Users\Cristian\Desktop\voicerecorder_f067d3f5a443\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Users\Usuario\Downloads\pmcs\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
